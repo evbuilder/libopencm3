@@ -18,6 +18,11 @@ lib/*.ld
 html/
 latex/
 *.pdf
+<<<<<<< HEAD
+=======
+*DS_Store
+*.gitignore
+>>>>>>> Added DS_Store to .gitignore. Damn Mac OS
 *.tag
 .DS_Store
 # These are generated
